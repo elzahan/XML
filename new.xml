@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<person>
+     <name>Elza</name>
+     <age>38</age>
+     <number_of_pets>1</number_of_pets>
+     <salary>50000</salary>
+</person>     
